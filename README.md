@@ -1,6 +1,6 @@
 # [nickel.rs](http://nickel.rs) 
 
-
+[![Build Status](https://secure.travis-ci.org/robisys/nickel.rs.svg?branch=master)](https://travis-ci.org/robisys/nickel.rs)
 
 [![](http://meritbadge.herokuapp.com/nickel)](https://crates.io/crates/nickel) [![license](http://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/nickel-org/nickel.rs/master/LICENSE) [![Join the chat at https://gitter.im/nickel-org/nickel.rs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nickel-org/nickel.rs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
